@@ -1,0 +1,1 @@
+# gitops-cp-catalogs
